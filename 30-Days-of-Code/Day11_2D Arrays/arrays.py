@@ -21,9 +21,9 @@ if __name__ == '__main__':
     values = []
 
     # Search through Array for maximum hourglass
-    # At most 4 rows/columns can support an hourglass
-    for i in range(0, 3): # Row
-        for j in range(0, 3): # Column 
+    # At most 3 rows/columns can support an hourglass
+    for i in range(0, 4): # Row
+        for j in range(0, 4): # Column 
             temp_sum = 0;
 
             # Top Row:                             
