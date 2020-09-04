@@ -1,4 +1,5 @@
-# HackerRank
-Repo to hold all my code solution for HackerRank.
+# Coding-Practice
+Repo to hold all my code solutions for HackerRank/LeetCode.
 
-Profile: https://www.hackerrank.com/hchong
+HackerRank Profile: https://www.hackerrank.com/hchong
+LeetCode Profile: https://leetcode.com/hchong16/
